@@ -1,13 +1,62 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.app{
+    margin: auto;
+    width: 20%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.header{
+    text-align: center;
+}
+
+.cart{
+    margin-top: 70px;
+}
+
+.cart-item{
+    font-size: 1.5em;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 15px 20px;
+    background: #e0e0e0;
+    display: flex;
+}
+
+.delete-icon{
+    margin-left: auto;
+    color: #ba4d45;
+}
+
+.delete-icon:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.add-item-box{
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.add-item-box input{
+    width: 100%;
+    padding: 15px 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-size: 1.3em;
+}
+
+.add-item-btn{
+    position: absolute;
+    top: 50%;
+    right: 3%;
+    transform: translateY(-50%);
+    padding: 5px 25px;
+    font-size: 1.2em;
+    background: #63bf71;
+    color: white;
+    border: 1px solid #53bd63;
+}
+
+.add-item-btn:hover{
+    background: #6edb7e;
+    cursor: pointer;
 }

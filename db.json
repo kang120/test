@@ -1,0 +1,16 @@
+{
+  "cart": [
+    {
+      "item_name": "Bread",
+      "id": 2
+    },
+    {
+      "id": 7,
+      "item_name": "Coca Cola"
+    },
+    {
+      "id": 8,
+      "item_name": "Biscuit"
+    }
+  ]
+}
