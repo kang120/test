@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kang120/test/static/css/main.c2c5dec8.css",
-    "main.js": "/kang120/test/static/js/main.d6187248.js",
-    "static/js/787.6f0453fb.chunk.js": "/kang120/test/static/js/787.6f0453fb.chunk.js",
-    "index.html": "/kang120/test/index.html",
-    "main.c2c5dec8.css.map": "/kang120/test/static/css/main.c2c5dec8.css.map",
-    "main.d6187248.js.map": "/kang120/test/static/js/main.d6187248.js.map",
-    "787.6f0453fb.chunk.js.map": "/kang120/test/static/js/787.6f0453fb.chunk.js.map"
+    "main.css": "/test/static/css/main.c2c5dec8.css",
+    "main.js": "/test/static/js/main.3854216e.js",
+    "static/js/787.6f0453fb.chunk.js": "/test/static/js/787.6f0453fb.chunk.js",
+    "index.html": "/test/index.html",
+    "main.c2c5dec8.css.map": "/test/static/css/main.c2c5dec8.css.map",
+    "main.3854216e.js.map": "/test/static/js/main.3854216e.js.map",
+    "787.6f0453fb.chunk.js.map": "/test/static/js/787.6f0453fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2c5dec8.css",
-    "static/js/main.d6187248.js"
+    "static/js/main.3854216e.js"
   ]
 }
